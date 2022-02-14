@@ -6,7 +6,41 @@ html {
 
 body {}
 
+h3 {
+    color: white;
+}
+
+
+/* CARD */
+
+.card-text p {
+    color: hsl(215, 51%, 70%);
+}
+
+.card-eth p {
+    color: hsl(178, 100%, 50%)
+}
+
+.card-days p {
+    color: hsl(215, 51%, 70%);
+}
+
+.card-footer p {
+    color: hsl(215, 51%, 70%);
+}
+
 
 /* FOOTER */
 
-.footer {}
+.footer a {
+    color: white;
+}
+
+.footer {
+    position: relative;
+    bottom: 0;
+    font-size: 1em;
+    text-align: center;
+    color: hsl(215, 51%, 70%);
+    margin: 0 0 2em 0;
+}
